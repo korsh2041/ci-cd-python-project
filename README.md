@@ -17,6 +17,9 @@ ci-cd-python-project/
 
 │ └── test_calculator.py
 
-├── requirements.txt
+├──.gitignore
 
-└── README.md
+├── README.md
+
+└── requirements.txt
+
