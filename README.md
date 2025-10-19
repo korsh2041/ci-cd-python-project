@@ -4,6 +4,7 @@
 
 ## Структура проекта
 project/
+
 ├── src/
 │ └── calculator.py
 ├── tests/
